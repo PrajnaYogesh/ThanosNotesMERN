@@ -1,0 +1,15 @@
+MERN  APPLICATION
+
+1)BACKEND  (MONGODB,EXPRESS,NODE)
+
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2) FRONTEND  (REACT)
