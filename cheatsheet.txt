@@ -4,8 +4,9 @@ MERN  APPLICATION
 
 
 
+create models,controllers
 
-
+create routes
 
 
 
