@@ -8,7 +8,7 @@ const Note = require("../models/note")
 
 //read data or get data
 const fetchNotes = async(req,res)=>{
-    await console.log("fetch all")
+    // await console.log("fetch all")
 const notes = await Note.find()
 res.json({notes:notes})
 }
